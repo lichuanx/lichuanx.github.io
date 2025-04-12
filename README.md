@@ -1,3 +1,42 @@
+# Lichuan Xiang's Academic Website
+
+This repository contains the code for Lichuan Xiang's academic website, based on the academicpages template.
+
+## Setup Instructions
+
+1. The website is now configured with the following pages:
+   - About/Home page
+   - CV page
+   - Research Lab page
+   - Publications page
+
+2. To make the site fully publishable, please complete these steps:
+
+   - Add a profile picture: Upload an image named `profile.png` to the `images/` directory
+   - Verify GitHub Pages settings: Go to repository settings and ensure GitHub Pages is enabled
+   - Push changes to the GitHub repository
+   - The site should be live at https://lichuanxiang.github.io
+
+3. Optional improvements:
+   - Consider adding PDF versions of your papers to the `/files/` directory and linking them from the publications page
+   - You may want to add other social media links in the `_config.yml` file
+   - Add Google Analytics if desired by updating the tracking ID in `_config.yml`
+
+## Content Updates
+
+The site has been structured to showcase your professional background and research focus. The main pages are:
+
+- **About**: A brief introduction highlighting your current roles and research interests
+- **Research Lab**: Details about your research focus and projects
+- **Publications**: A list of your published papers and preprints
+- **CV**: Your complete curriculum vitae
+
+To update content, edit the corresponding Markdown files in the `_pages` directory.
+
+## Credits
+
+This site uses the [academicpages template](https://github.com/academicpages/academicpages.github.io), which is based on the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.

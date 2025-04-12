@@ -1,13 +1,4 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
+<div style="text-align: justify; word-wrap: break-word; overflow-wrap: break-word;">
 
 # Lichuan Xiang | 向力川
 
@@ -78,6 +69,7 @@ redirect_from:
   - Collaborated with researchers from University of Warwick on urban perception modeling
   - Focused on theoretical frameworks and methodological approaches in streetscape analysis
 
+
 ### Computer Vision Engineer (Full-time) (2018-2019)
 **4Paradigm, Beijing**
 - Developed AutoCV deep learning framework
@@ -94,6 +86,7 @@ redirect_from:
 - **Co-organizer**, "Streetscape Perception Modelling – Theoretical Considerations and Methodological Possibilities", PLATIAL'21 Conference (December 2021)
   - Collaborated with researchers from University of Warwick on urban perception modeling
   - Focused on theoretical frameworks and methodological approaches in streetscape analysis
+
 
 ## Selected Publications
 
@@ -135,3 +128,8 @@ redirect_from:
 - **Research Areas**: Neural Architecture Search, Model Compression, Computer Vision, Deep Learning
 - **Tools & Frameworks**: AutoML, ControlNet, Diffusion Models, RAG Systems
 - **Languages**: English (Fluent), Chinese (Native)
+
+---
+
+</div>
+
