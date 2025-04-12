@@ -14,13 +14,17 @@ I am an Honorary Research Fellow at the University of Warwick and a Founding Res
 
 ## Research Interests
 
-My work falls into three main areas:
+My work falls into these main areas:
 
 1. **Neural Architecture Search (NAS)**: I develop methods that can automatically discover optimal neural network architectures for specific tasks, with a focus on efficiency and performance.
 
 2. **Model Compression and Pruning**: My research explores novel techniques to reduce the computational requirements of deep learning models while maintaining accuracy, particularly focusing on pruning at initialization.
 
 3. **Efficient Deep Learning**: I work on creating algorithms that significantly reduce ML computation across the full lifecycle from architecture discovery to training and inference.
+
+4. **Controllable Generation with Diffusion Models**: I develop methods for precise control of diffusion-based generative models, enabling spatially-aware object manipulation that follows photorealistic principles and physical constraints. My research focuses on computation-aware architectures for diffusion models that maintain quality while improving efficiency.
+
+5. **Agentic Systems**: I research autonomous AI systems that can plan, reason, and execute complex tasks through dynamic tool use and environment interaction. This includes developing architectures that support self-directed learning and decision-making in multi-step reasoning tasks.
 
 ## Current Work
 

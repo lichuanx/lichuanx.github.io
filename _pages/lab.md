@@ -19,6 +19,10 @@ My work typically falls into these key areas:
 
 3. **Efficient Deep Learning**: I work on creating algorithms that significantly reduce ML computation across the full lifecycle from architecture discovery to training and inference.
 
+4. **Controllable Generation with Diffusion Models**: I develop methods for precise control of diffusion-based generative models, enabling spatially-aware object manipulation that follows photorealistic principles and physical constraints. My research focuses on computation-aware architectures for diffusion models that maintain quality while improving efficiency.
+
+5. **Agentic Systems**: I research autonomous AI systems that can plan, reason, and execute complex tasks through dynamic tool use and environment interaction. This includes developing architectures that support self-directed learning and decision-making in multi-step reasoning tasks.
+
 The overarching goal of my research is to make ML systems more accessible, efficient, and deployable in real-world scenarios where computational resources are limited.
 
 ### Research Projects
@@ -31,6 +35,12 @@ We explore novel techniques for pruning neural networks at initialization, allow
 
 #### Generative Modeling for Neural Architecture Design
 This work uses hierarchical generative models to create neural architectures, allowing for more flexible and controlled design of neural networks.
+
+#### Computation-Aware Controllable Diffusion Models
+This project focuses on developing efficient architectures for diffusion models that enable precise control over image generation and editing. We research methods to maintain high-quality output while significantly reducing computational requirements through differentiable routers and specialized control mechanisms.
+
+#### Agentic Systems for Complex Reasoning Tasks
+We research frameworks for autonomous AI agents that can plan, reason, and execute multi-step tasks. This work explores architectures that support dynamic tool use, environment interaction, and self-directed learning to solve complex problems that require sophisticated reasoning capabilities.
 
 ### Collaborations
 

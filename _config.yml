@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lichuan Xiang"
 title_separator          : "-"
 name                     : &name "Lichuan Xiang"
-description              : &description "Honorary Research Fellow at University of Warwick and Founding Research Scientist at Collov.ai"
+description              : &description "Honorary Research Fellow at University of Warwick && Founding Research Scientist at Collov.ai"
 url                      : https://lichuanx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lichuanx/lichuanx.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Lichuan Xiang"
   avatar           : "profile.png"
   bio              : "Honorary Research Fellow at University of Warwick and Founding Research Scientist at Collov.ai"
-  location         : "UK/China"
-  employer         : "Collov.ai & University of Warwick"
+  location         : "US/UK"
+  employer         : "University of Warwick / Collov.ai"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kkfAMrIAAAAJ&hl=en"
   email            : "l.xiang.2@warwick.ac.uk"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Tiaspetto"
+  github           : "lichuanx"
   google_plus      :
   keybase          :
   instagram        :

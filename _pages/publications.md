@@ -5,32 +5,44 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For a complete list of my publications please see:
 
-{% include base_path %}
+|  [Google Scholar](https://scholar.google.com/citations?user=kkfAMrIAAAAJ) |  [DBLP](https://dblp.org/pid/264/2000.html) |
 
-## Conference Papers
+### Recent Publications
 
-1. **Xiang, L.**, et al. (2024). *Towards neural architecture search through hierarchical generative modeling*. ICML 2024.
+**Towards Neural Architecture Search through Hierarchical Generative Modeling.**  
+Lichuan Xiang, Łukasz Dudziak, Mohamed S Abdelfattah, Abhinav Mehrotra, Nicholas D. Lane, Hongkai Wen.  
+_Forty-first International Conference on Machine Learning (**ICML**)_, 2024.
 
-2. **Xiang, L.**, et al. (2023). *Zero-cost operation scoring in differentiable architecture search*. AAAI 2023.
+**Towards Data-Agnostic Pruning At Initialization: What Makes a Good Sparse Mask?**  
+Hoang Pham, The-Anh Ta, Shiwei Liu, Lichuan Xiang, Dung D. Le, Hongkai Wen, Long Tran-Thanh  
+_Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**)_, 2023.
 
-3. **Pham, T.**,...**Xiang, L.**, et al. (2023). *Towards data-agnostic pruning at initialization: what makes a good sparse mask?*. NeurIPS 2023.
+**Zero-Cost Operation Scoring in Differentiable Architecture Search.**  
+Lichuan Xiang, Łukasz Dudziak, Mohamed S. Abdelfattah, Thomas C. P. Chau, Nicholas D. Lane, Hongkai Wen.  
+_Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**)_, 2023.
 
-4. **Xiang, L.**, et al. (2023). *Exploiting network compressibility and topology in zero-cost NAS*. AutoML Conference 2023. 🏆 **Best Paper Award**
+**Exploiting Network Compressibility and Topology in Zero-Cost NAS.**  
+Lichuan Xiang, Rosco Hunter, Łukasz Dudziak, Minghao Xu, Hongkai Wen.  
+_The 2023 International Conference on Automated Machine Learning (AutoML)_, 2023. (**Best Paper Award**)
 
-5. **Xiang, L.**, et al. (2023). *DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle*. ICLR 2023.
+**DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle.**  
+Lichuan Xiang, et al.  
+_International Conference on Learning Representations (**ICLR**)_, 2023.
 
-## Workshop Papers
+**Generating Neural Network Architectures with Conditional Graph Normalizing Flows.**  
+Lichuan Xiang, Łukasz Dudziak, Abhinav Mehrotra, Mohamed S. Abdelfattah, Nicholas D. Lane, Hongkai Wen.  
+_The 2023 International Conference on Automated Machine Learning (AutoML)_ Workshop, 2023.
 
-1. **Xiang, L.**, et al. (2023). *Generating Neural Network Architectures with Conditional Graph Normalizing Flows*. AutoML Conference Workshop 2023.
+**Temporal Kernel Consistency for Blind Video Super-Resolution.**  
+Lichuan Xiang, Royson Lee, Mohamed S. Abdelfattah, Nicholas D. Lane, Hongkai Wen.  
+_**ICCV** Workshops_, 2021.
 
-2. **Xiang, L.**, et al. (2021). *Temporal kernel consistency for blind video super-resolution*. ICCV Workshop 2021.
+**No More Adam: Learning Rate Scaling at Initialization is All You Need.**  
+Minghao Xu, Lichuan Xiang, et al.  
+_arXiv preprint_, 2024.
 
-## Preprints
-
-1. **Xu, M.**, **Xiang, L.**, et al. (2024). *No More Adam: Learning Rate Scaling at Initialization is All You Need*. arXiv.
-
-2. **Fang, Z.**, **Xiang, L.**, et al. (2025). *FlexControl: Computation-Aware ControlNet with Differentiable Router for Text-to-Image Generation*. arXiv.
+**FlexControl: Computation-Aware ControlNet with Differentiable Router for Text-to-Image Generation.**  
+Zhihang Fang, Lichuan Xiang, et al.  
+_arXiv preprint_, 2025.
