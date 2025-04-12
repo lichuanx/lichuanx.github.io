@@ -10,6 +10,9 @@ For a complete list of my publications please see:
 |  [Google Scholar](https://scholar.google.com/citations?user=kkfAMrIAAAAJ) |  [DBLP](https://dblp.org/pid/264/2000.html) |
 
 ### Recent Publications
+**DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle.**  
+Lichuan Xiang, et al.  
+_International Conference on Learning Representations (**ICLR**)_, 2025.
 
 **Towards Neural Architecture Search through Hierarchical Generative Modeling.**  
 Lichuan Xiang, Łukasz Dudziak, Mohamed S Abdelfattah, Abhinav Mehrotra, Nicholas D. Lane, Hongkai Wen.  
@@ -26,10 +29,6 @@ _Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**)_, 2023.
 **Exploiting Network Compressibility and Topology in Zero-Cost NAS.**  
 Lichuan Xiang, Rosco Hunter, Łukasz Dudziak, Minghao Xu, Hongkai Wen.  
 _The 2023 International Conference on Automated Machine Learning (AutoML)_, 2023. (**Best Paper Award**)
-
-**DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle.**  
-Lichuan Xiang, et al.  
-_International Conference on Learning Representations (**ICLR**)_, 2023.
 
 **Generating Neural Network Architectures with Conditional Graph Normalizing Flows.**  
 Lichuan Xiang, Łukasz Dudziak, Abhinav Mehrotra, Mohamed S. Abdelfattah, Nicholas D. Lane, Hongkai Wen.  
