@@ -10,6 +10,15 @@ For a complete list of my publications please see:
 |  [Google Scholar](https://scholar.google.com/citations?user=kkfAMrIAAAAJ) |  [DBLP](https://dblp.org/pid/264/2000.html) |
 
 ### Recent Publications
+
+**FlexControl: Computation-Aware ControlNet with Differentiable Router for Text-to-Image Generation.**  
+Zhihang Fang, Lichuan Xiang, et al.  
+_arXiv preprint_, 2025.
+
+**No More Adam: Learning Rate Scaling at Initialization is All You Need.**  
+Minghao Xu, Lichuan Xiang, et al.  
+_arXiv preprint_, 2024.
+
 **DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle.**  
 Lichuan Xiang, et al.  
 _International Conference on Learning Representations (**ICLR**)_, 2025.
@@ -38,10 +47,3 @@ _The 2023 International Conference on Automated Machine Learning (AutoML)_ Works
 Lichuan Xiang, Royson Lee, Mohamed S. Abdelfattah, Nicholas D. Lane, Hongkai Wen.  
 _**ICCV** Workshops_, 2021.
 
-**No More Adam: Learning Rate Scaling at Initialization is All You Need.**  
-Minghao Xu, Lichuan Xiang, et al.  
-_arXiv preprint_, 2024.
-
-**FlexControl: Computation-Aware ControlNet with Differentiable Router for Text-to-Image Generation.**  
-Zhihang Fang, Lichuan Xiang, et al.  
-_arXiv preprint_, 2025.
