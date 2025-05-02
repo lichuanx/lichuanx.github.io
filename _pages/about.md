@@ -37,7 +37,7 @@ At Collov.ai, I lead several key projects:
 At the University of Warwick, I continue my research in efficient ML systems and supervise doctoral students working on related topics.
 
 ## Recent Achievements
-
+- [FlexControl](https://huggingface.co/papers/2502.10451) Accepted in ICML2025
 - 🏆 **Best Paper Award** at AutoML Conference 2023 for our work on "Exploiting network compressibility and topology in zero-cost NAS"
 - Published papers in top-tier conferences including ICML, ICLR, AAAI, and NeurIPS
 - Successfully completed my Ph.D. in Computer Science from the University of Warwick (2024)
