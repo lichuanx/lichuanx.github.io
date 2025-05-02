@@ -13,7 +13,7 @@ For a complete list of my publications please see:
 
 **FlexControl: Computation-Aware ControlNet with Differentiable Router for Text-to-Image Generation.**  
 Zheng Fang, Lichuan Xiang, Xu Cai, Kaicheng Zhou, Hongkai Wen 
-_arXiv preprint_, 2025.
+_Forty-Second International Conference on Machine Learning (**ICML**)_, 2025.
 
 **No More Adam: Learning Rate Scaling at Initialization is All You Need.**  
 Minghao Xu, Lichuan Xiang, Xu Cai, Hongkai Wen
