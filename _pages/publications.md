@@ -12,15 +12,15 @@ For a complete list of my publications please see:
 ### Recent Publications
 
 **FlexControl: Computation-Aware ControlNet with Differentiable Router for Text-to-Image Generation.**  
-Zhihang Fang, Lichuan Xiang, et al.  
+Zheng Fang, Lichuan Xiang, Xu Cai, Kaicheng Zhou, Hongkai Wen 
 _arXiv preprint_, 2025.
 
 **No More Adam: Learning Rate Scaling at Initialization is All You Need.**  
-Minghao Xu, Lichuan Xiang, et al.  
+Minghao Xu, Lichuan Xiang, Xu Cai, Hongkai Wen
 _arXiv preprint_, 2024.
 
 **DPaI: Differentiable Pruning at Initialization with Node-Path Balance Principle.**  
-Lichuan Xiang, et al.  
+Lichuan Xiang, Quan Nguyen-Tri, Lan-Cuong Nguyen, Hoang Pham, Khoat Than, Long Tran-Thanh, Hongkai Wen 
 _International Conference on Learning Representations (**ICLR**)_, 2025.
 
 **Towards Neural Architecture Search through Hierarchical Generative Modeling.**  
